@@ -4,7 +4,7 @@
         <TargetFramework>netstandard2.1</TargetFramework>
         <AssemblyName>MFGTweaks</AssemblyName>
         <Product>MFGTweaks</Product>
-        <Version>1.2.0</Version>
+        <Version>1.2.1</Version>
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
         <LangVersion>latest</LangVersion>
         <RestoreAdditionalProjectSources>
@@ -39,6 +39,6 @@
 		</Reference>
 		<Reference Include="..\Assemblies\Unity.ResourceManager.dll" Publicize="true">
 			<Private>false</Private>
-		</Reference>
+		</Reference>		
     </ItemGroup>
 </Project>

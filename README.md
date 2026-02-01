@@ -18,6 +18,7 @@ Includes various QoL improvements:
 - **ExtraNetcafeVoices**: Makes the girls randomly say special NetCafe specific voice lines on touch. Only some girls have them
 - **MuteBGM**: Lets you mute in-game BGM using Alt + M
 - **DisableCRC**: Allows you to modify the Addressable AssetBundles found in StreamingAssets/aa/StandaloneWindows64
+- **MusicGachaForceEnable**: Forces music gacha to be enabled despite PPEX problems
 
 ## MFGTileNumbers
 
